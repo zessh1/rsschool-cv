@@ -13,4 +13,17 @@
 
 --- 
 
+### About Myself:
 
+I want to learn more about Front-End development and I have high expectetions RSSchool courses
+
+---
+
+### Skills and Proficiency:
+
+* HTML5,CSS3
+* Javascript Basics
+* Python Basics
+* VS Code, WebStorm, Pycharm
+
+---
